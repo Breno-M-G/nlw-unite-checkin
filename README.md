@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Breno M. G. - [brenomgoulart@hotmail.com](mailto:brenomgoulart@hotmail.com)
 
-Link para o projeto: [https://github.com/seu-usuario/seu-projeto](https://github.com/seu-usuario/seu-projeto)
+Link para o projeto: [https://breno-m-g.github.io/nlw-unite-checkin/](https://breno-m-g.github.io/nlw-unite-checkin/)
 _________________________________________________________________________________________________________________
 
 
